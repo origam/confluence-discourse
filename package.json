@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "confluence-to-markdown": "^1.2.0"
+  }
+}
