@@ -1,5 +1,5 @@
 # Introduction
-This tool is used for (almost) automatic migration of Confluence documentation into Discource.
+This tool is used for (almost) automatic migration of Confluence documentation into Discourse.
 
 It handles:
 - Html to markup formatting conversion (many thanks to `confluence-to-markdown` tool)
